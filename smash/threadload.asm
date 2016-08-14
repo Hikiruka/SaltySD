@@ -117,4 +117,4 @@ sdmc:       .asciz "sdmc:"
 .align 4
 sdmc_:      .asciz "sdmc"
 .align 4
-mod_path:   .asciz "sdmc:/saltysd/smash/"
+mod_path:   .asciz "sdmc:/pokemon/romfs/"
